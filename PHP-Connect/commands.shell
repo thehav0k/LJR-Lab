@@ -1,0 +1,3 @@
+cd /Applications/MAMP/Library/bin/mysql80/bin
+
+./mysql -u root -p -P 8889
